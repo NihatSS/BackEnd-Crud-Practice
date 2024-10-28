@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/user/OneDrive/Desktop/pb102_tasks/BackEnd/Elearn/ElearnApp/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/OneDrive/Desktop/pb102_tasks/BackEnd/Elearn/ElearnApp/Areas/Admin/Views/Category/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

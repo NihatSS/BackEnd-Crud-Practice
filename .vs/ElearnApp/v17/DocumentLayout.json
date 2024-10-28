@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\backend\\elearn\\elearnapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51451972-0BEF-49F4-A826-D18C88738BAF}|ElearnApp\\ElearnApp.csproj|solutionrelative:elearnapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ElearnApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Models\\Category.cs",
+              "RelativeToolTip": "ElearnApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:02:50.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T18:58:44.57Z",
+              "WhenOpened": "2024-10-28T19:31:01.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T18:43:57.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswD0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T18:31:56.697Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T18:20:19.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "ElearnApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "ElearnApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T17:51:48.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Program.cs",
-              "RelativeDocumentMoniker": "ElearnApp\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\BackEnd\\Elearn\\ElearnApp\\Program.cs",
-              "RelativeToolTip": "ElearnApp\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T17:09:42.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -2,7 +2,9 @@
 
 <div style="position:absolute; left:300px; top:50px">
 	<h1>Categories</h1>
-    <div class="panel-body">
+
+    <a asp-action="Create" class="btn btn-success">Create</a>
+    <div class="panel-body" style="width:600px">
         <div class="row">
             <div class="col-12">
                 <div class="table-responsive">
@@ -14,14 +16,16 @@
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach (var item in Model)
+                            @foreach (var item in Model.OrderByDescending(m=>m.Id))
                             {
                                 <tr>
                                     <td>@item.Name</td>
-                                    <td>
+                                    <td style="display:flex; gap:20px">
                                         <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-secondary">Detail</a>
                                         <a class="btn btn-primary">Update</a>
-                                        <a class="btn btn-danger">Delete</a>
+                                        <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                                            <button type="submit" class="btn btn-danger">Delete</button>
+                                        </form>
                                     </td>
                                 </tr>
                             }

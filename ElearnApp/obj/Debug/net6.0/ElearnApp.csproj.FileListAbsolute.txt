@@ -312,3 +312,4 @@ C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp\obj\Debug\ne
 C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp\obj\Debug\net6.0\ElearnApp.pdb
 C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp\obj\Debug\net6.0\ElearnApp.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp\obj\Debug\net6.0\ref\ElearnApp.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\BackEnd\Elearn\ElearnApp\obj\Debug\net6.0\ElearnApp.sourcelink.json
